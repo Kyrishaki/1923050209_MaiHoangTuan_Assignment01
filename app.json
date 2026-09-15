@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Assignment 01 - Todo App",
+    "slug": "assignment-01-todo-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0B1329"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
